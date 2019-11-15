@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?time_continue=13&v=Vs5xcZ4HUcY
+
 ![OpenBCI Headset](https://pythonprogramming.net/static/images/bci/openbciheadset.png)
 
 # Brain-Computer Interface workspace
